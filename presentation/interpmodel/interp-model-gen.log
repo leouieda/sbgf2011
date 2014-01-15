@@ -1,0 +1,34 @@
+Fatiando a Terra:
+  version: 0.0.1
+  date: Mon Aug  8 12:57:46 2011
+  version control info:
+    changeset:   179:31e0627cf7c5
+    user:        Leonardo Uieda <leouieda@gmail.com>
+    date:        Mon Jul 11 15:00:07 2011 -0300
+
+Generating synthetic gz data:
+  grid type: regular
+  data points = 2500
+Building prism mesh:
+  Discretization: nx=30 X ny=30 X nz=30 = 27000 prisms
+  Cell dimensions: dx=100 X dy=100 X dz=100
+Setting seeds in mesh:
+  seed: {'cell': {'x2': 1600.0, 'x1': 1500.0, 'value': 2000, 'y1': 1500.0, 'y2': 1600.0, 'z1': 1500.0, 'z2': 1600.0}, 'index': 13965, 'neighbors': [], 'density': 2000}
+Growing density model:
+  parameters = 27000
+  data = 2500
+  seeds = 1
+  compactness = 10000
+  power = 3
+  threshold = 0.001
+  norm = l2
+  neighbor type = reduced
+  distance type = radial
+  Jacobian matrix file = None
+  initial misfit = 20874.2
+  initial total goal function = 20874.2
+    Exited because couldn't grow.
+  Size of estimate: 1046 cells
+  Filling estimate with zeros...
+  Total inversion time: 39.2011 s
+Plotting

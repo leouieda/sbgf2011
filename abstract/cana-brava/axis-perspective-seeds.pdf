@@ -1,0 +1,504 @@
+%PDF-1.4
+1 0 obj
+<<
+/Title (Visualization Toolkit - OpenGL)
+/Creator (GL2PS 1.3.5, (C) 1999-2009 C. Geuzaine)
+/Producer (VTK)
+/CreationDate (D:20110331152322)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [6 0 R]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Length 5 0 R
+>>
+stream
+/GSa gs
+1 1 1 rg
+0 0 1280 717 re
+f
+0 0 0 rg
+BT
+/F0 18 Tf
+92.071915 186.259781 Td
+(-13.8) Tj
+ET
+3.07136 w
+0 0 0 RG
+114.000000 210.000000 m
+109.458069 207.909286 l
+S
+0 0 0 rg
+BT
+/F1 18 Tf
+74.057846 195.272324 Td
+(10.0) Tj
+ET
+3.07136 w
+0 0 0 RG
+114.000000 210.000000 m
+114.004761 205.000000 l
+S
+0 0 0 rg
+BT
+/F2 18 Tf
+353.276001 186.259781 Td
+(-13.5) Tj
+ET
+3.07136 w
+0 0 0 RG
+374.750031 210.250015 m
+374.754791 205.250000 l
+S
+0 0 0 rg
+BT
+/F3 26 Tf
+627.490234 158.220673 Td
+(Y) Tj
+ET
+0 0 0 rg
+BT
+/F4 18 Tf
+614.480042 186.259781 Td
+(-13.2) Tj
+ET
+3.07136 w
+0 0 0 RG
+635.500000 210.500000 m
+635.504822 205.500000 l
+S
+0 0 0 rg
+BT
+/F5 18 Tf
+874.683350 186.259781 Td
+(-13.0) Tj
+ET
+3.07136 w
+0 0 0 RG
+896.250000 210.750000 m
+896.254822 205.750000 l
+S
+0 0 0 rg
+BT
+/F6 18 Tf
+1135.887451 187.261169 Td
+(-12.7) Tj
+ET
+3.07136 w
+0 0 0 RG
+1157.000000 211.000000 m
+1157.004761 205.999985 l
+114.000000 210.000000 m
+1157.000000 211.000000 l
+106.750000 225.750000 m
+102.208130 223.659286 l
+S
+0 0 0 rg
+BT
+/F7 18 Tf
+66.051598 210.293274 Td
+(7.1) Tj
+ET
+3.07136 w
+0 0 0 RG
+99.500000 241.500000 m
+94.958130 239.409302 l
+92.250000 257.250000 m
+87.708069 255.159286 l
+85.024406 272.946960 m
+114.000000 210.000000 l
+114.334412 210.282242 m
+85.098145 273.168335 l
+114.334412 210.282242 m
+1157.091064 211.135330 l
+133.352325 273.152161 m
+85.098145 273.168335 l
+203.381927 504.657928 m
+114.334412 210.282242 l
+1136.462891 272.816101 m
+133.352325 273.152161 l
+1060.241943 500.726501 m
+1157.091064 211.135330 l
+1136.462891 272.816101 m
+1189.379395 272.798370 l
+1157.091064 211.135330 m
+1189.379395 272.798370 l
+203.381927 504.657928 m
+1060.241943 500.726501 l
+203.381927 504.657928 m
+183.965576 569.940735 l
+1060.241943 500.726501 m
+1081.935303 564.745667 l
+183.965576 569.940735 m
+1081.935303 564.745667 l
+183.965576 569.940735 m
+85.098145 273.168335 l
+S
+0 0 0 rg
+BT
+/F8 26 Tf
+45.035172 204.284912 Td
+(Z) Tj
+ET
+0 0 0 rg
+BT
+/F9 18 Tf
+52.040672 242.337982 Td
+(1.3) Tj
+ET
+0 0 0 rg
+BT
+/F10 18 Tf
+59.046135 226.315628 Td
+(4.2) Tj
+ET
+3.07136 w
+0 0 0 RG
+85.000000 273.000000 m
+80.458130 270.909271 l
+S
+0 0 0 rg
+BT
+/F11 18 Tf
+45.035172 258.360321 Td
+(-1.5) Tj
+ET
+0 0 0 rg
+BT
+/F12 18 Tf
+36.028137 269.375671 Td
+(-48.1) Tj
+ET
+3.07136 w
+0 0 0 RG
+85.000000 273.000000 m
+80.253357 274.571503 l
+85.024406 272.946960 m
+85.000000 273.000000 l
+183.000031 569.000000 m
+85.000000 273.000000 l
+S
+0 0 0 rg
+BT
+/F13 18 Tf
+60.046921 343.479065 Td
+(-48.2) Tj
+ET
+3.07136 w
+0 0 0 RG
+109.500000 347.000000 m
+104.753357 348.571503 l
+S
+0 0 0 rg
+BT
+/F14 26 Tf
+63.049240 430.600555 Td
+(X) Tj
+ET
+0 0 0 rg
+BT
+/F15 18 Tf
+85.066452 417.582397 Td
+(-48.3) Tj
+ET
+3.07136 w
+0 0 0 RG
+134.000000 421.000000 m
+129.253387 422.571503 l
+S
+0 0 0 rg
+BT
+/F16 18 Tf
+109.085236 491.685760 Td
+(-48.4) Tj
+ET
+3.07136 w
+0 0 0 RG
+158.500000 495.000000 m
+153.753387 496.571533 l
+S
+0 0 0 rg
+BT
+/F17 18 Tf
+134.104767 565.789124 Td
+(-48.5) Tj
+ET
+3.07136 w
+0 0 0 RG
+183.000031 569.000000 m
+178.253418 570.571533 l
+1081.935303 564.745667 m
+1189.379395 272.798370 l
+S
+endstream
+endobj
+5 0 obj
+2970
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 1280 717]
+/Contents 4 0 R
+/Resources
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC]  %/ImageI
+/ExtGState
+<<
+/GSa 7 0 R
+>>
+/Shading
+<<
+>>
+/XObject
+<<
+>>
+/Font
+<<
+/F0 8 0 R
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+/F15 23 0 R
+/F16 24 0 R
+/F17 25 0 R
+>>
+>>
+>>
+endobj
+7 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 0
+/BG2 /Default
+/UCR2 /Default
+/TR2 /Default
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F6
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F8
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F9
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F10
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F11
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F12
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F13
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F14
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F15
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F16
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F17
+/BaseFont /Helvetica-BoldOblique
+/Encoding /MacRomanEncoding
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000009 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000275 00000 n 
+0000003297 00000 n 
+0000003317 00000 n 
+0000003744 00000 n 
+0000003871 00000 n 
+0000003991 00000 n 
+0000004111 00000 n 
+0000004232 00000 n 
+0000004353 00000 n 
+0000004474 00000 n 
+0000004595 00000 n 
+0000004716 00000 n 
+0000004837 00000 n 
+0000004958 00000 n 
+0000005079 00000 n 
+0000005201 00000 n 
+0000005323 00000 n 
+0000005445 00000 n 
+0000005567 00000 n 
+0000005689 00000 n 
+0000005811 00000 n 
+0000005933 00000 n 
+trailer
+<<
+/Size 26
+/Info 1 0 R
+/Root 2 0 R
+>>
+startxref
+6055
+%%EOF
